@@ -7,7 +7,7 @@ Be sure to generate the .aux file each time you update the bibliography. Note th
 
 1. Delete .aux file 
 2. bibtex report
-3. pdflatex report
+3. pdflatex report.pdf
 
 
 Adding an image 
