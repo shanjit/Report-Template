@@ -1,0 +1,19 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Duda et~al.(2000)Duda, Hart, and Stork]{mitchell80}
+Duda, R.~O., Hart, P.~E., and Stork, D.~G.
+\newblock \emph{Pattern Classification}.
+\newblock John Wiley and Sons, 2nd edition, 2000.
+
+\bibitem[Samuel(1959)]{Samuel59}
+Samuel, A.~L.
+\newblock Some studies in machine learning using the game of checkers.
+\newblock \emph{IBM Journal of Research and Development}, 3\penalty0
+  (3):\penalty0 211--229, 1959.
+
+\end{thebibliography}
